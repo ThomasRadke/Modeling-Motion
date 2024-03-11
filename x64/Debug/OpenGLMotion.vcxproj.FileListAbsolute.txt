@@ -1,1 +1,2 @@
 C:\Users\Thomas\source\repos\OpenGLMotion\x64\Debug\OpenGLMotion.exe
+C:\Users\Thomas\source\repos\Modeling-Motion\x64\Debug\OpenGLMotion.exe
