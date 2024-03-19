@@ -1,6 +1,5 @@
-#ifndef VertexArrayObject_CLASS_H
-#define VertexArrayObject_CLASS_H
-
+#ifndef VERTEXARRAYOBJECT_CLASS_H
+#define VERTEXARRAYOBJECT_CLASS_H
 #include<GL/glew.h>
 #include"VertexBufferObject.h"
 

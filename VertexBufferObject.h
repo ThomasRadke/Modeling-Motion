@@ -1,5 +1,5 @@
-#ifndef VertexBufferObject_CLASS_H
-#define VertexBufferObject_CLASS_H
+#ifndef VERTEXBUFFEROBJECT_CLASS_H
+#define VERTEXBUFFEROBJECT_CLASS_H
 #include<GL/glew.h>
 
 class VertexBufferObject {
